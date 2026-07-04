@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* Styling for the Heading */
+h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Styling for the Paragraph */
+p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+/* Styling for the Skills Section */
+.skills-section {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.skills-section h2 {
+    color: #2c3e50;
+    margin-top: 0;
+}
+
+.skills-section ul {
+    padding-left: 20px;
+}
+
+.skills-section li {
+    margin-bottom: 8px;
+    color: #444;
+}
